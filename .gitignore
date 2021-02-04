@@ -3,13 +3,16 @@
 project.lock.json
 .DS_Store
 *.pyc
+
 # Visual Studio Code
 .VS Code
+
 # User-specific files
 *.suo
 *.user
 *.userosscache
 *.sln.docstates
+
 # Build results
 [Dd]ebug/
 [Dd]ebugPublic/
@@ -24,8 +27,10 @@ bld/
 msbuild.log
 msbuild.err
 msbuild.wrn
+
 # Visual Studio
 .vs/
+
 # Compiled Source
 *.com
 *.class
